@@ -33,7 +33,8 @@ Players will be equipped with multiple mobility options.
 Player will be equipped with combat tools. Players will be equipped with one or two weapons and can mix and match whichever weapons they want. Players will be able to press a hotkey and a hand button to assign said weapon to the respective hand.
 - Generic sword: Close range, the benchmark weapon for all enemies. Most enemies will die in 1 hit from this weapon. Can parry projectiles and attacks with this weapon. 
 - Chainsword: Similar to Blades of Chaos from God of War series. Short dagger attached to chains. Longer range from the sword, slower attack speed. same damage. 
-  - May link 
+  - May link grappling hook mechanics to the weapon. Playtest required.
+- Two handed weapon: A hammer or a greatsword. BFG-like weapon that deals massive damage (AoE or otherwise) and goes on a cooldown after use. The weapon will continue cooling down when not in use.
 
 ![image](./References/Boomerang%20X.jpg)
 

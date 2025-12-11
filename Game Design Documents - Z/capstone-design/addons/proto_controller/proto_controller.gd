@@ -98,6 +98,7 @@ func wallrun() -> void:
 	await get_tree().create_timer(wallrunTimeout).timeout
 	has_gravity = false
 	velocity.y = 0
+	print_debug(wallNormal)
 
 func dash() -> void:
 	dashCount = dashCount - 1
